@@ -65,7 +65,7 @@ Generated Password: Z87I@Po4KRd!*u5
 
 ## 📸 Screenshots
 
-Screenshots of the program execution can be added to the `screenshots/` folder to demonstrate the working application.
+![Password Generator Output](screenshots/password_generator_output.png)
 
 ## 📚 Learning Outcomes
 - Practiced Python programming.
